@@ -13,8 +13,10 @@
 edition = "2021"
 name = "rust-xfinal-macro"
 version = "0.1.0"
+description = "macro utilities for rust-xfinal"
 homepage = "https://github.com/xmh0511/rust-xfinal-macro"
 readme = "README.md"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/xmh0511/rust-xfinal-macro"
 resolver = "2"
 
