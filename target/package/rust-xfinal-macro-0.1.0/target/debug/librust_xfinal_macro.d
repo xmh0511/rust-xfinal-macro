@@ -1,0 +1,1 @@
+/Users/xieminghao/Documents/rust-xfinal-macro/target/package/rust-xfinal-macro-0.1.0/target/debug/librust_xfinal_macro.dylib: /Users/xieminghao/Documents/rust-xfinal-macro/target/package/rust-xfinal-macro-0.1.0/src/lib.rs
