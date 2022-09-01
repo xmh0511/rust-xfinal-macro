@@ -1,6 +1,7 @@
 use std::{str::FromStr};
 
 use proc_macro::TokenStream;
+/// This macro is used to construct a ip v4 endpoint
 #[proc_macro]
 pub fn end_point(input:TokenStream)->TokenStream{
    let str = input.to_string();

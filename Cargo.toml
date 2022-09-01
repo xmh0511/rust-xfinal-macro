@@ -1,6 +1,6 @@
 [package]
 name = "rust-xfinal-macro"
-version = "0.1.0"
+version = "0.1.2"
 edition = "2021"
 homepage = "https://github.com/xmh0511/rust-xfinal-macro"
 repository = "https://github.com/xmh0511/rust-xfinal-macro"
